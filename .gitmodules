@@ -1,0 +1,3 @@
+[submodule "clean/minimal"]
+	path = clean/minimal
+	url = https://huggingface.co/spaces/michelaledwidge/minimal
